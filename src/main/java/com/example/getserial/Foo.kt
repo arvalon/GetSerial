@@ -6,4 +6,6 @@ class Foo {
     fun printHelloWorld(){
         Log.d(Bar.LOGTAG, "Foo - printHelloWorld")
     }
+
+    //hello
 }
