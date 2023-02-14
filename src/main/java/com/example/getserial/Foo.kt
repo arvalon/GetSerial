@@ -8,4 +8,5 @@ class Foo {
     }
 
     //hello
+    //hello2
 }
